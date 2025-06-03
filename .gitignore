@@ -1,0 +1,31 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider files
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled mod files
+*.dll
+*.pdb
+
+# Mod distribution folders
+Mods/
+
+# User secrets (if any)
+secrets.json
+
+# Package restore
+packages/

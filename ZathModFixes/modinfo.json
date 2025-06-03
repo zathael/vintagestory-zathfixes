@@ -1,0 +1,12 @@
+{
+    "type": "content",
+    "modid": "vintagestory-zathfixes",
+    "name": "Zath's Fixes",
+    "version": "1.0.0",
+    "description": "Tries to cover for some bad mod interactions",
+    "authors": ["Zathael"],
+    "dependencies": {
+      "game": ""
+    }
+  }
+  

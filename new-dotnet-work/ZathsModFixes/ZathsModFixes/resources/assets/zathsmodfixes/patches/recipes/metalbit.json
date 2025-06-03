@@ -1,0 +1,8 @@
+[
+    {
+        "op": "replace",
+        "file": "game:recipes/grid/metalbit",
+        "path": "/1/output/quantity",
+        "value": 20
+    }
+]
