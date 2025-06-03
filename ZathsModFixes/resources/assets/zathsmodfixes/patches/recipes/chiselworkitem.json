@@ -1,5 +1,4 @@
-﻿// smithingplus sets this to 20, we need to reduce
-[
+﻿[
     {
         "op": "replace",
         "file": "smithingplus:recipes/grid/chiselworkitem",
