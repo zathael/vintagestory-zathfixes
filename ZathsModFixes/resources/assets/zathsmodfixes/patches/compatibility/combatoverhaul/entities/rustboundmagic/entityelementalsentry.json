@@ -1,0 +1,8 @@
+[
+    {
+        "op": "replace",
+        "file": "rustboundmagic:entities/creatures/elementals/sentry/entityelementalsentry",
+        "path": "/server/behaviors/7/aitasks/0/damageDoneByType/*-common",
+        "value": 2.5
+    }
+]
