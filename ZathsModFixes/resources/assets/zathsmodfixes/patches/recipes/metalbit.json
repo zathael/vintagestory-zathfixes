@@ -2,7 +2,37 @@
     {
         "op": "replace",
         "file": "game:recipes/grid/metalbit",
+        "path": "/0/output/quantity",
+        "value": 10
+    },
+    {
+        "op": "replace",
+        "file": "game:recipes/grid/metalbit",
         "path": "/1/output/quantity",
         "value": 20
+    },
+    {
+        "op": "replace",
+        "file": "game:recipes/grid/metalbit",
+        "path": "/2/output/quantity",
+        "value": 10
+    },
+    {
+        "op": "replace",
+        "file": "game:recipes/grid/metalbit",
+        "path": "/3/output/quantity",
+        "value": 10
+    },
+    {
+        "op": "replace",
+        "file": "game:recipes/grid/metalbit",
+        "path": "/4/output/quantity",
+        "value": 10
+    },
+    {
+        "op": "replace",
+        "file": "game:recipes/grid/metalbit",
+        "path": "/5/output/quantity",
+        "value": 10
     }
 ]
