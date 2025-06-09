@@ -1,0 +1,28 @@
+[
+    {
+        "side": "Server",
+        "file": "game:entities/land/bear",
+        "op": "replace",
+        "path": "/server/behaviors/9/aitasks/0/damageTierByType",
+        "value": {
+            "*-black": 2,
+            "*-brown": 3,
+            "*-sun": 2,
+            "*-panda": 2,
+            "*-polar": 3
+        }
+    },
+    {
+        "side": "Server",
+        "file": "game:entities/land/bear",
+        "op": "replace",
+        "path": "/server/behaviors/9/aitasks/1/damageTierByType",
+        "value": {
+            "*-black": 2,
+            "*-brown": 3,
+            "*-sun": 2,
+            "*-panda": 2,
+            "*-polar": 3
+        }
+    }
+]
