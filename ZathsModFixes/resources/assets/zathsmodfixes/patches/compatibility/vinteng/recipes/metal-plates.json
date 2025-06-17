@@ -1,0 +1,14 @@
+[
+    {
+        "op": "replace",
+        "file": "vinteng:recipes/vemetalpress/metal-plates.json",
+        "path": "/0/ingredients/0/quantity",
+        "value": 2
+    },
+    {
+        "op": "replace",
+        "file": "vinteng:recipes/vemetalpress/metal-plates.json",
+        "path": "/1/ingredients/0/quantity",
+        "value": 2
+    }
+]
