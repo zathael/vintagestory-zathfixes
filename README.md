@@ -5,8 +5,8 @@ These fixes are intended to be used with a particular 100+ mod server configurat
 If you are using a modpack that does not use any of these mods, the individual mod patches will throw an exception during server load, but can be ignored.
 
 ### Vanilla Chisel Recovery Reduction
-- Metal Plates now return 20 bits instead of 40
-- Most metal recovery recipes with Chisels now return 10 bits.
+- Metal Plates now return 20 bits instead of 40 to cover for VintageEngineering possibilities
+- Metal armor pieces (lamellae, chain, and scale) now return less bits due to CombatOverhaul
 
 ### CombatOverhaul Changes
 - Bears have been reduced from tiers (4, 5, 4, 4, 5) to (2, 3, 2, 2, 3) to be in line with base-game
